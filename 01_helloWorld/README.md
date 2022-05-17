@@ -26,7 +26,8 @@ For now you do not need to worry about how to write tests, but you should try to
 
 so let's look at the javascript file:
 ```javascript
-const helloWorld = function() {
+const helloWorld = function() 
+{
   return ''
 }
 
